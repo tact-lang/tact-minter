@@ -1,3 +1,7 @@
+> [!CAUTION]
+> This project is deprecated. For up-to-date version of smart contract examples and UI for them visit
+> the [Contract Monorepo in Tolk](https://github.com/ton-blockchain/acton-contracts/).
+
 # Tact Minter
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
